@@ -1,0 +1,6 @@
+{
+  "name": "EarthNest Interiors",
+  "description": "Professional interior design studio based in Boring Road, Patna, crafting elegant, modern, and functional homes, offices, and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
